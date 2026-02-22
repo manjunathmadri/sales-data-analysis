@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis
+## 📊 Sales Data Analysis
 ## 📁 Project Structure
 SALES_DATA_ANALYSIS/
 │
