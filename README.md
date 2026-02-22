@@ -47,7 +47,7 @@ data/sales_data.csv
 ## Expected columns:
 
 Date, Product, Customer, Region, Revenue
-🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 Data cleaning
 
