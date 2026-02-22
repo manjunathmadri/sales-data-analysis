@@ -1,6 +1,7 @@
 ## 📊 Sales Data Analysis
 ## 📁 Project Structure
 '''
+
 SALES_DATA_ANALYSIS/
 │
 ├── data/
@@ -11,6 +12,7 @@ SALES_DATA_ANALYSIS/
 │
 ├── main.py                   # Main script for analysis
 └── README.md                 # Project documentation
+
 '''
 ## 📌 Overview
 
