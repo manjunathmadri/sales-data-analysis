@@ -68,11 +68,12 @@ Regional comparison
 Visual charts
 
 ## 🚀 Future Enhancements
+- Interactive dashboard
+- Sales forecasting
+- KPI metrics
+- Automated reporting
 
-Interactive dashboard
-
-Sales forecasting
-
-KPI metrics
-
-Automated reporting
+## 📊 Key Insights
+- Highest revenue region: North
+- Best selling product: Laptop
+- Peak sales month: 2024-03
