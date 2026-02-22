@@ -29,7 +29,7 @@ jupyter (for notebook)
 ## Install dependencies:
 
 pip install pandas numpy matplotlib seaborn notebook
-▶️ Running the Project
+## ▶️ Running the Project
 Run Python Script
 python main.py
 Run Notebook
