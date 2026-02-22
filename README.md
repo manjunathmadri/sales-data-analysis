@@ -1,6 +1,6 @@
 ## 📊 Sales Data Analysis
 ## 📁 Project Structure
-'''
+```
 
 SALES_DATA_ANALYSIS/
 │
@@ -13,7 +13,7 @@ SALES_DATA_ANALYSIS/
 ├── main.py                   # Main script for analysis
 └── README.md                 # Project documentation
 
-'''
+```
 ## 📌 Overview
 
 This project analyzes sales data to extract insights such as revenue trends, top-performing products, regional performance, and customer statistics. It includes both a Python script and a Jupyter notebook for flexible analysis.
